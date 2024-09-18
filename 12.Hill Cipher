@@ -97,7 +97,6 @@ int main() {
     decryptHillCipher(encrypted, keyMatrix, decrypted);
     printf("Decrypted message: %s\n", decrypted);
 
-    printf("\n\n\nsuthesan vj   192210542\n");
 
     return 0;
 }
