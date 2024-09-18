@@ -34,8 +34,6 @@ int main() {
     caesarCipher(text, k);
 
     printf("Encrypted text: %s", text);
-    
-    printf("\n\n\nsuthesan vj   192210542\n");
 
     return 0;
 }
