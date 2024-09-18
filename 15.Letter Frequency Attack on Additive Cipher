@@ -81,8 +81,6 @@ int main() {
     
     frequencyAttack(ciphertext, topN);
 
-    printf("\n\n\nsuthesan vj   192210542\n");
-
     return 0;
 }
 
