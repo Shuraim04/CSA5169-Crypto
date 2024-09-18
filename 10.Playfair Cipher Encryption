@@ -84,8 +84,6 @@ int main() {
 
     printf("Encrypted message: %s\n", encrypted);
 
-    printf("\n\n\nsuthesan vj   192210542\n");
-
     return 0;
 }
 
