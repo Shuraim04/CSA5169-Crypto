@@ -69,8 +69,7 @@ int main() {
     
     decryptSubstitution(ciphertext, mapping, decrypted);
     printf("Decrypted text: %s\n", decrypted);
-    
-    printf("\n\n\nsuthesan vj   192210542\n");
+
 
     return 0;
 }
